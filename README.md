@@ -12,4 +12,6 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 -obtener información valiosa
 -Toma de decisiones
 - etc.
+
+
 #Concluciones
