@@ -15,3 +15,9 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 
 
 # Conclusiones
+1. Conclusión 1
+2. Conclusión 2
+
+
+
+
