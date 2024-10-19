@@ -7,7 +7,8 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 
 ### Objetivos especificos
 
--transformar y visualizar datos
+- George Washington
+- transformar y visualizar datos
 -obtener información valiosa
 -Toma de decisiones
 
