@@ -11,5 +11,5 @@ Este conjunto de datos contiene información detallada sobre las ventas de una t
 - transformar y visualizar datos
 -obtener información valiosa
 -Toma de decisiones
-- George Washington
+- etc.
 #Concluciones
